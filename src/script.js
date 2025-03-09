@@ -1,1 +1,1 @@
-console.log("sklsk");
+console.log("task3");
